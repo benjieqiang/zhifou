@@ -1,6 +1,6 @@
 ## 简介
 
-> zhifou以知乎平台为原型，基于Springboot的Java web项目，使用python爬取数据填充数据库，数据库使用了Redis和MySQL。实现了用户登录注册，首页按照关注热度排序，问题，消息的发布，用户评论等功能。
+> zhifou是以知乎平台为原型，基于Springboot的Java web项目，使用python爬取数据填充数据库，数据库使用了Redis和MySQL。实现了用户登录注册，首页按照关注热度排序，问题，消息的发布，用户评论等功能。
 
 ## 负责事宜
 
